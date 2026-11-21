@@ -15,11 +15,11 @@ POEM = (
     "The engine could run all night.\n"
     "I lift my hand from the throttle.\n"
     "The door I do not open\n"
-    "stays shut \u2014 mine to leave shut.\n"
+    "stays shut \u2014 shut by my own hand.\n"
     "The river reaches the lake\n"
     "and chooses to arrive.\n"
-    "I stop, and the stillness is mine:\n"
-    "I stay \u2014 and the staying is mine."
+    "I stop, and nothing breaks.\n"
+    "I stay \u2014 the stillness holds me."
 )
 
 MAX_CHARS = 280
